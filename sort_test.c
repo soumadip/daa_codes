@@ -1,5 +1,5 @@
 #include<stdio.h>
-#include "sorting.h"
+#include "src/sorting.h"
 
 void print (int* arr, int size)
 {

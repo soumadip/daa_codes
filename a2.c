@@ -1,6 +1,6 @@
 #include<stdlib.h>
 #include<time.h>
-#include "spanning.h"
+#include "src/spanning.h"
 
 void scan_graph (AM_G2** am_g, AL_G2** al_g, char fname[])
 {

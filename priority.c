@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-#include "priority_queue.h"
+#include "src/priority_queue.h"
 
 typedef struct
 {

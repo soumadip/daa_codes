@@ -1,4 +1,4 @@
-#include "graph_traversal.h"
+#include "src/graph_traversal.h"
 
 void scan_graph (AM_G** am_g, AL_G** al_g)
 {
