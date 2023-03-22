@@ -59,7 +59,7 @@ bool pop (stack* ptr, int* ret)
 
 void release_stack(stack* ptr)
 {
-	free(ptr->storage);
+	release_linked_list(ptr->storage);
 	free(ptr);
 }
 #endif
