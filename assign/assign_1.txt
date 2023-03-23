@@ -1,0 +1,16 @@
+Assignement No: 1
+Assignment Title : Graph Traversal
+
+Time: 1 week
+
+Tasks:
+1. Implement a graph using adjacency matrix representation
+2. Implement DFS traversal on the graph
+3. Implement BFS traversal on the graph
+4. Do the task 1-3 above using adjacency list representation of the graph
+5. Use both DFS and BFS traversals (separately) for searching a node on the graph
+
+Note: your DFS, BFS code should work with any node in the graph given as a starting node
+
+
+Hint: Use the link to the old DSA codes given in the website for reference
